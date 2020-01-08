@@ -2,7 +2,7 @@ Full Sail University
 Information Technology, Bachelor of Science
 Automating Resource Deployment
 
-This file is intended for Module 3, Activity 3.4.
+This file is intended for Module 4, Activity 4.3
 
 As part of the deliverables, students should be concatnating their name and term number below the line below, using Ansible
 
